@@ -1,4 +1,4 @@
-# actix-web-prom
+# actix-web-prom (Fork by Katana Capital)
 
 [![CI Status](https://github.com/nlopes/actix-web-prom/workflows/Test/badge.svg)](https://github.com/nlopes/actix-web-prom/actions)
 [![docs.rs](https://docs.rs/actix-web-prom/badge.svg)](https://docs.rs/actix-web-prom)
