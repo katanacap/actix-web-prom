@@ -1,11 +1,6 @@
 version: 2
 updates:
-- package-ecosystem: cargo
-  directory: "/"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 10
-  ignore:
-  - dependency-name: actix-service
-    versions:
-    - 2.0.0
+  - package-ecosystem: "cargo"
+    directory: "/"
+    schedule:
+      interval: "daily"

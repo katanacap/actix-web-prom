@@ -648,6 +648,7 @@ impl PrometheusMetrics {
         }
     }
 
+    #[allow(clippy::too_many_arguments)]
     fn update_metrics(
         &self,
         http_version: Version,
