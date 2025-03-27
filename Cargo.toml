@@ -17,7 +17,7 @@ strfmt = { version = "0.2.4" }
 actix-web = { version = "4.9.0", default-features = false, features = ["macros"] }
 futures-core = "0.3.31"
 pin-project-lite = "0.2.16"
-prometheus = { version = "0.13.4", default-features = false }
+prometheus = { version = "0.14.0", default-features = false }
 regex = "^1.11.1"
 log = "0.4.25"
 
